@@ -82,7 +82,7 @@
     position: absolute;
     bottom: -42px;
     left: 50%;
-    transform: translateX(-50px);
+    transform: translateX(-50%);
     width: 0%;
     height: 3px;
     background: var(--or);
