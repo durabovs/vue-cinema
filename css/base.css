@@ -61,6 +61,8 @@ body {
     padding-bottom: 10px;
     border-bottom: 2px solid var(--bgor);
     width: max-content;
+    text-transform: capitalize;
+    margin: 60px 0 56px;
 }
 
 .films__wrap {
