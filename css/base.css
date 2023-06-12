@@ -40,6 +40,7 @@ body {
     background: var(--bgor);
     width: 166px;
     height: 46px;
+    border-radius: 5px;
     font-family: var(--RM);
     font-size: 14px;
     font-weight: 500;
