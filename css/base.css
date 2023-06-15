@@ -41,11 +41,12 @@ body {
     width: 166px;
     height: 46px;
     border-radius: 5px;
-    font-family: var(--RM);
+    font-family: var(--MR);
     font-size: 14px;
     font-weight: 500;
     line-height: 12px;
     transition: 0.2s;
+    cursor: pointer;
 }
 
 .btn:hover {
